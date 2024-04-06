@@ -9,6 +9,6 @@ Font based on 19-segment indicators
 
 ## English language
 
-![Example text - English (1)](https://raw.githubusercontent.com/qwerty281/segment19/main/example/segment19_1.png)
+![Example text - English (1)](https://raw.githubusercontent.com/qwerty281/segment19/main/example/segment19.png)
 
 ![Example text - English (2)](https://raw.githubusercontent.com/qwerty281/segment19/main/example/segment19_2.png)
